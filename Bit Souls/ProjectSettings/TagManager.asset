@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - EnemyWeapon
+  - Enemy
+  - PlayerWeapon
+  - Wall
+  - EnemyProjectile
+  - Bonfire
+  - GameMaster
+  - Barrier
+  - Hazard
+  - Breakable
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - PlayerWeapon
+  - EnemyWeapon
+  - Wall
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 2838285251
+    locked: 0
+  - name: Bonfire
+    uniqueID: 3305482933
+    locked: 0
+  - name: Barrier
+    uniqueID: 1100240945
+    locked: 0
+  - name: Walls
+    uniqueID: 3834744725
+    locked: 0
+  - name: Player
+    uniqueID: 205253797
+    locked: 0
+  - name: Enemy
+    uniqueID: 2790577799
+    locked: 0
+  - name: Objects
+    uniqueID: 224718741
+    locked: 0
+  - name: Foreground
+    uniqueID: 3716891155
+    locked: 0
+  - name: Weapon
+    uniqueID: 2650069917
+    locked: 0
+  - name: Targeting
+    uniqueID: 1561534835
+    locked: 0
+  - name: UI
+    uniqueID: 936938491
+    locked: 0
